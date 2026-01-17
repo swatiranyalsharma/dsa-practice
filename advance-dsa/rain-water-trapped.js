@@ -27,6 +27,7 @@ module.exports = {
         return totalWaterContent;
     },
     getSuffixArray(A) {
+
         let suffixArray = [];
         suffixArray[A.length - 1] = A[A.length - 1];
         for (let i = A.length - 2; i >= 0; i--) {
