@@ -1,6 +1,6 @@
-# JavaScript DSA Practice
+# (JavaScript + Java) DSA Practice
 
-🚀 This repository contains data structure and algorithm problems solved in JavaScript. Each problem is categorized and includes clean code with comments for understanding.
+🚀 This repository contains data structure and algorithm problems solved in JavaScript and Java. Each problem is categorized and includes clean code with comments for understanding.
 
 ## 📁 Folder Structure
 arrays
@@ -20,6 +20,7 @@ string
 - Boundary if 2d Array
 - Recursion
 - Linked Lists
+- Backtracking
 
 
 🤝 Contributing
