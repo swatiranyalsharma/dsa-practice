@@ -21,6 +21,13 @@ public class Solution {
     public int solve(String A) {
         int longest = 0;
         int isOneExist = 0;
+        int totalOnes = 0;
+        for(int i=0;i<A.length();i++){
+            if(A.charAt(i) == '1'){
+                totalOnes++;
+            }
+        }
+        if(totalOnes == A.length()) return A.length();
         for(int i=0;i<A.length();i++){
             if(A.charAt(i) == '0'){
                 int left =i-1;
@@ -52,21 +59,16 @@ public class Solution {
                         right++;
                     }
                 }
-                 int sum = 0;
-                if(isExtraOneAvailable == true){
+                 int  sum= leftCount + rightCount;
+                if(sum < totalOnes){
                     sum= leftCount + rightCount+1;
                 }else{
                     sum = leftCount + rightCount;
                 }
-               
-                // sum = sum + 1;
                 longest = Math.max(longest, sum);
-            }else{
-                isOneExist = 1;
             }
         }
-        if(longest == 0 && isOneExist == 0) return 0;
-        if(longest == 0) return A.length();
         return longest;
     }
 }
+
