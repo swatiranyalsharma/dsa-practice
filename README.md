@@ -37,4 +37,20 @@ https://www.notion.so/Frequency-counter-Hashmap-based-string-problems-Variants-o
 |  |
 | ------- |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/swatiranyalsharma/dsa-practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+## Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0023-merge-k-sorted-lists) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0023-merge-k-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
