@@ -5,9 +5,7 @@ class Solution {
         StringBuffer sb = new StringBuffer();
         long sum = 0;
         for(int i=0;i<arr.length;i++){
-            // arr[i]
-            // System.out.println(arr[i].getClass().getSimpleName());
-            // System.out.println(arr[i] == "0");
+          
             if(!arr[i].equals("0")){
                 sb.append(arr[i]);
                 sum += Integer.parseInt(arr[i]);
