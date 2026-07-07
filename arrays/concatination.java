@@ -10,7 +10,6 @@ class Solution {
                 sb.append(arr[i]);
                 sum += Integer.parseInt(arr[i]);
             }
-            
         }
         String res = sb.toString();
         long val=0;
