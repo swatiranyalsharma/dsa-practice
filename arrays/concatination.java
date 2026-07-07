@@ -13,6 +13,7 @@ class Solution {
         }
         String res = sb.toString();
         long val=0;
+        
         if(!res.equals(""))
          val = Long.parseLong(res);
         return val * sum;
