@@ -1,0 +1,29 @@
+class Solution {
+    public long sumAndMultiply(int n) {
+        // concatinate all non zero numbers - x
+        // sum it up - sum
+        // multiple it with integer - x * sum
+        String s = Integer.toString(n);
+        String[] arr = s.split("");
+        //  for(int i=0;i<arr.length;i++){
+        // System.out.println(arr[i]);
+        //  }
+        StringBuffer sb = new StringBuffer();
+        long sum = 0;
+        for(int i=0;i<arr.length;i++){
+            // arr[i]
+            // System.out.println(arr[i].getClass().getSimpleName());
+            // System.out.println(arr[i] == "0");
+            if(!arr[i].equals("0")){
+                sb.append(arr[i]);
+                sum += Integer.parseInt(arr[i]);
+            }
+            
+        }
+        String res = sb.toString();
+        long val=0;
+        if(!res.equals(""))
+         val = Long.parseLong(res);
+        return val * sum;
+    }
+}
