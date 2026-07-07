@@ -1,13 +1,7 @@
 class Solution {
     public long sumAndMultiply(int n) {
-        // concatinate all non zero numbers - x
-        // sum it up - sum
-        // multiple it with integer - x * sum
         String s = Integer.toString(n);
         String[] arr = s.split("");
-        //  for(int i=0;i<arr.length;i++){
-        // System.out.println(arr[i]);
-        //  }
         StringBuffer sb = new StringBuffer();
         long sum = 0;
         for(int i=0;i<arr.length;i++){
