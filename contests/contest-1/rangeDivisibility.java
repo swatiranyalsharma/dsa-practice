@@ -1,54 +1,54 @@
-Samantha is a teacher who is teaching a group of students about divisibility by 7. To make the lesson more interesting, she gives them an array A of size N and asks them Q queries given by B.
+// Samantha is a teacher who is teaching a group of students about divisibility by 7. To make the lesson more interesting, she gives them an array A of size N and asks them Q queries given by B.
 
-In each query, she gives them a range from L to R given by B[i][0] and B[i][1] and asks them to find the count of numbers divisible by 7 in subarray A[L], A[L+1], ... A[R]. Since some students are struggling to solve the problem, Samantha asks for your help to come up with a solution.
-
-
-
-Problem Constraints
-
-1 <= N <= 105
-
-1 <= Q <= 105
-
-1 <= A[i] <= 109
-
-0 <= B[i][0], B[i][1] < N
+// In each query, she gives them a range from L to R given by B[i][0] and B[i][1] and asks them to find the count of numbers divisible by 7 in subarray A[L], A[L+1], ... A[R]. Since some students are struggling to solve the problem, Samantha asks for your help to come up with a solution.
 
 
 
-Input Format
+// Problem Constraints
 
-First argument A is an integer array.
-Second argument B is a 2D integer array.
+// 1 <= N <= 105
 
+// 1 <= Q <= 105
 
+// 1 <= A[i] <= 109
 
-Output Format
-
-Return an integer array where ith index contains the count of numbers divisible by 7 in the range A[B[i][0]] to A[B[i][1]].
-
+// 0 <= B[i][0], B[i][1] < N
 
 
-Example Input
 
-Input 1:
+// Input Format
 
-A = [2, 7, 14, 5, 7]
-B = [[0, 2], [2, 4]]
-Input 2:
-
-A = [7, 14, 2, 14]
-B = [[1, 2], [0, 3]]
+// First argument A is an integer array.
+// Second argument B is a 2D integer array.
 
 
-Example Output
 
-Output 1:
+// Output Format
 
-[2, 2]
-Output 2:
+// Return an integer array where ith index contains the count of numbers divisible by 7 in the range A[B[i][0]] to A[B[i][1]].
 
-[1, 3]
+
+
+// Example Input
+
+// Input 1:
+
+// A = [2, 7, 14, 5, 7]
+// B = [[0, 2], [2, 4]]
+// Input 2:
+
+// A = [7, 14, 2, 14]
+// B = [[1, 2], [0, 3]]
+
+
+// Example Output
+
+// Output 1:
+
+// [2, 2]
+// Output 2:
+
+// [1, 3]
 public class Solution {
     public int[] solve(int[] A, int[][] B) {
         int[] prefix = new int[A.length];
