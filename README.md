@@ -56,10 +56,12 @@ https://www.notion.so/Frequency-counter-Hashmap-based-string-problems-Variants-o
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0073-set-matrix-zeroes) |
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0073-set-matrix-zeroes) |
 ## Matrix
 |  |
