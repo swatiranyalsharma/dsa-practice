@@ -85,9 +85,14 @@ https://www.notion.so/Frequency-counter-Hashmap-based-string-problems-Variants-o
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0042-trapping-rain-water) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
