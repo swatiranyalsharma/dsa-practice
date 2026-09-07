@@ -178,6 +178,7 @@ https://www.notion.so/Frequency-counter-Hashmap-based-string-problems-Variants-o
 | [0026-remove-duplicates-from-sorted-array](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0046-permutations) |
 | [0073-set-matrix-zeroes](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0078-subsets) |
@@ -251,6 +252,7 @@ https://www.notion.so/Frequency-counter-Hashmap-based-string-problems-Variants-o
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
