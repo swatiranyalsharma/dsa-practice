@@ -158,6 +158,7 @@ https://www.notion.so/Frequency-counter-Hashmap-based-string-problems-Variants-o
 | [0021-merge-two-sorted-lists](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0023-merge-k-sorted-lists) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0141-linked-list-cycle](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0148-sort-list) |
 | [0876-middle-of-the-linked-list](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0876-middle-of-the-linked-list) |
 ## Divide and Conquer
@@ -202,6 +203,7 @@ https://www.notion.so/Frequency-counter-Hashmap-based-string-problems-Variants-o
 | [0041-first-missing-positive](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0076-minimum-window-substring) |
+| [0141-linked-list-cycle](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0141-linked-list-cycle) |
 | [0268-missing-number](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0268-missing-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [3731-find-missing-elements](https://github.com/swatiranyalsharma/dsa-practice/tree/master/3731-find-missing-elements) |
@@ -224,6 +226,7 @@ https://www.notion.so/Frequency-counter-Hashmap-based-string-problems-Variants-o
 | [0011-container-with-most-water](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0042-trapping-rain-water) |
+| [0141-linked-list-cycle](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0148-sort-list) |
 | [0283-move-zeroes](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0344-reverse-string) |
@@ -355,4 +358,8 @@ https://www.notion.so/Frequency-counter-Hashmap-based-string-problems-Variants-o
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0005-longest-palindromic-substring) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
