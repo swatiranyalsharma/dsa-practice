@@ -148,6 +148,7 @@ https://www.notion.so/Frequency-counter-Hashmap-based-string-problems-Variants-o
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0268-missing-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0779-k-th-symbol-in-grammar) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/swatiranyalsharma/dsa-practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/swatiranyalsharma/dsa-practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -186,6 +187,7 @@ https://www.notion.so/Frequency-counter-Hashmap-based-string-problems-Variants-o
 | [0074-search-a-2d-matrix](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0078-subsets) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0268-missing-number](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0300-longest-increasing-subsequence) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -200,6 +202,7 @@ https://www.notion.so/Frequency-counter-Hashmap-based-string-problems-Variants-o
 | [0041-first-missing-positive](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0076-minimum-window-substring) |
+| [0268-missing-number](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0268-missing-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [3731-find-missing-elements](https://github.com/swatiranyalsharma/dsa-practice/tree/master/3731-find-missing-elements) |
 ## Matrix
@@ -211,6 +214,7 @@ https://www.notion.so/Frequency-counter-Hashmap-based-string-problems-Variants-o
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0074-search-a-2d-matrix) |
+| [0268-missing-number](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0300-longest-increasing-subsequence) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Two Pointers
@@ -271,12 +275,14 @@ https://www.notion.so/Frequency-counter-Hashmap-based-string-problems-Variants-o
 |  |
 | ------- |
 | [0078-subsets](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0078-subsets) |
+| [0268-missing-number](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0268-missing-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0779-k-th-symbol-in-grammar) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/swatiranyalsharma/dsa-practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Sorting
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0148-sort-list) |
+| [0268-missing-number](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0268-missing-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1094-car-pooling](https://github.com/swatiranyalsharma/dsa-practice/tree/master/1094-car-pooling) |
 | [3731-find-missing-elements](https://github.com/swatiranyalsharma/dsa-practice/tree/master/3731-find-missing-elements) |
