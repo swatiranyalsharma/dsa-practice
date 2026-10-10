@@ -158,6 +158,7 @@ https://www.notion.so/Frequency-counter-Hashmap-based-string-problems-Variants-o
 | [0023-merge-k-sorted-lists](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0023-merge-k-sorted-lists) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0148-sort-list](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0148-sort-list) |
+| [0876-middle-of-the-linked-list](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0876-middle-of-the-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -222,6 +223,7 @@ https://www.notion.so/Frequency-counter-Hashmap-based-string-problems-Variants-o
 | [0283-move-zeroes](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0344-reverse-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0876-middle-of-the-linked-list](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0876-middle-of-the-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
