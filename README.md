@@ -192,6 +192,7 @@ https://www.notion.so/Frequency-counter-Hashmap-based-string-problems-Variants-o
 | [1094-car-pooling](https://github.com/swatiranyalsharma/dsa-practice/tree/master/1094-car-pooling) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/swatiranyalsharma/dsa-practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/swatiranyalsharma/dsa-practice/tree/master/3731-find-missing-elements) |
+| [4020-elevator-requests-i](https://github.com/swatiranyalsharma/dsa-practice/tree/master/4020-elevator-requests-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -283,6 +284,7 @@ https://www.notion.so/Frequency-counter-Hashmap-based-string-problems-Variants-o
 |  |
 | ------- |
 | [1094-car-pooling](https://github.com/swatiranyalsharma/dsa-practice/tree/master/1094-car-pooling) |
+| [4020-elevator-requests-i](https://github.com/swatiranyalsharma/dsa-practice/tree/master/4020-elevator-requests-i) |
 ## Prefix Sum
 |  |
 | ------- |
