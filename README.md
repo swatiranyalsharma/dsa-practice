@@ -159,6 +159,7 @@ https://www.notion.so/Frequency-counter-Hashmap-based-string-problems-Variants-o
 | [0023-merge-k-sorted-lists](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0023-merge-k-sorted-lists) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0148-sort-list) |
 | [0876-middle-of-the-linked-list](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0876-middle-of-the-linked-list) |
 ## Divide and Conquer
@@ -205,6 +206,7 @@ https://www.notion.so/Frequency-counter-Hashmap-based-string-problems-Variants-o
 | [0073-set-matrix-zeroes](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0146-lru-cache) |
 | [0268-missing-number](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0268-missing-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [3731-find-missing-elements](https://github.com/swatiranyalsharma/dsa-practice/tree/master/3731-find-missing-elements) |
@@ -364,4 +366,12 @@ https://www.notion.so/Frequency-counter-Hashmap-based-string-problems-Variants-o
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0141-linked-list-cycle) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
