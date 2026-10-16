@@ -182,6 +182,7 @@ https://www.notion.so/Frequency-counter-Hashmap-based-string-problems-Variants-o
 | ------- |
 | [0011-container-with-most-water](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0046-permutations) |
@@ -218,6 +219,7 @@ https://www.notion.so/Frequency-counter-Hashmap-based-string-problems-Variants-o
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0300-longest-increasing-subsequence) |
