@@ -171,6 +171,7 @@ https://www.notion.so/Frequency-counter-Hashmap-based-string-problems-Variants-o
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0023-merge-k-sorted-lists) |
+| [0295-find-median-from-data-stream](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0295-find-median-from-data-stream) |
 | [1094-car-pooling](https://github.com/swatiranyalsharma/dsa-practice/tree/master/1094-car-pooling) |
 ## Merge Sort
 |  |
@@ -234,6 +235,7 @@ https://www.notion.so/Frequency-counter-Hashmap-based-string-problems-Variants-o
 | [0141-linked-list-cycle](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0148-sort-list) |
 | [0283-move-zeroes](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0344-reverse-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0876-middle-of-the-linked-list](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0876-middle-of-the-linked-list) |
@@ -291,6 +293,7 @@ https://www.notion.so/Frequency-counter-Hashmap-based-string-problems-Variants-o
 | ------- |
 | [0148-sort-list](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0295-find-median-from-data-stream) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1094-car-pooling](https://github.com/swatiranyalsharma/dsa-practice/tree/master/1094-car-pooling) |
 | [3731-find-missing-elements](https://github.com/swatiranyalsharma/dsa-practice/tree/master/3731-find-missing-elements) |
@@ -372,8 +375,13 @@ https://www.notion.so/Frequency-counter-Hashmap-based-string-problems-Variants-o
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0146-lru-cache) |
+| [0295-find-median-from-data-stream](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0295-find-median-from-data-stream) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0146-lru-cache) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
