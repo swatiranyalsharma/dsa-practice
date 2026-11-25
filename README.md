@@ -191,6 +191,7 @@ https://www.notion.so/Frequency-counter-Hashmap-based-string-problems-Variants-o
 | [0074-search-a-2d-matrix](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0078-subsets) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0300-longest-increasing-subsequence) |
@@ -207,6 +208,7 @@ https://www.notion.so/Frequency-counter-Hashmap-based-string-problems-Variants-o
 | [0041-first-missing-positive](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0146-lru-cache) |
 | [0268-missing-number](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0268-missing-number) |
@@ -384,4 +386,8 @@ https://www.notion.so/Frequency-counter-Hashmap-based-string-problems-Variants-o
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0295-find-median-from-data-stream) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
